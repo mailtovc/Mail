@@ -8,7 +8,7 @@
   </head>
   <body>
     <h1 class="">Copy Paste this mail  </h1>
-    <h6>Dear sir,<br>        I am writing this email to request that our semester fee should be reduced. As you know that due to this pandemic, we are not accessible to the services offered by the college like we are not accessible to Library, Labs, Workshops, Sports, Buses, etc. Please reduce some expenses which are irrelevant to our current studying situations. Many of the students are facing financial circumstances and these fees can be cut off and can be helpful for the many students. Please understand our situation and give us some relief.
+    <h6>Dear sir,<br>        I am writing this email to request that our semester fee should be reduced. As you know that due to this pandemic,we are not accessible to Library, Labs, Workshops, Sports, Buses, etc so these fees should be reduced. Please reduce some expenses which are irrelevant to our current studying situations. Many of the students are facing financial circumstances and these fees can be cut off and can be helpful for the many students. Please understand our situation and give us some relief.
     It would mean a lot with regards to our future.<br><br>
     Thank you for your understanding I hope you will take action.<br>
     Student of SVVV.</h6>
